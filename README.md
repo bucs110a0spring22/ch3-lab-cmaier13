@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+I made two turtles participate in two races. The first race had them move a random distance between 1 and 100. The second race had the turtles move a random distance between 1 and 10 on 10 separate occasions. Then, I had one turtle make multiple different shapes using a for loop.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ None.
 
 ## REFERENCES:
- < List any outside resources used >
+ None.
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ None. 
